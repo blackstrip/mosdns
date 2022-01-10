@@ -11,7 +11,7 @@ require (
 	github.com/kardianos/service v1.2.0
 	github.com/lucas-clemente/quic-go v0.24.0 // indirect
 	github.com/mdlayher/netlink v1.5.0 // indirect
-	github.com/miekg/dns v1.1.43
+	github.com/miekg/dns v1.1.45
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/vishvananda/netlink v1.1.1-0.20201029203352-d40f9887b852
