@@ -8,7 +8,7 @@ require (
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-redis/redis/v8 v8.11.4
 	github.com/google/nftables v0.0.0-20211209220838-6f19c4381e13
-	github.com/kardianos/service v1.2.0
+	github.com/kardianos/service v1.2.1
 	github.com/lucas-clemente/quic-go v0.24.0 // indirect
 	github.com/mdlayher/netlink v1.5.0 // indirect
 	github.com/miekg/dns v1.1.43
